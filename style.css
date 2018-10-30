@@ -1,0 +1,36 @@
+* {
+    outline: 1px dotted purple;
+}	
+
+ 
+.pacman{
+    height: 50px;
+    width: 50px;
+    margin: -2px;
+    display: inline-block;
+    background-image: url("Pacman.png");
+}
+
+.wall{
+    height: 50px;
+    width: 50px;
+    margin: -2px;
+    display: inline-block;
+    background-image: url("wall.png");
+}
+
+.coin{
+    height: 50px;
+    width: 50px;
+    margin: -2px;
+    display: inline-block;
+    background-image: url("coin.png");
+}
+
+.ground{
+    height: 50px;
+    width: 50px;
+    margin: -2px;
+    display: inline-block;
+    background-image: url("bg.png");
+}
